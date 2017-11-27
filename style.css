@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.flexdaddy {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #D4EDF7;
+    height: 100vh;
+    padding: 10px;
+    justify-content: space-between;
+}
+div[class^="box"] {
+    color: #110934;
+    font-size: 60px;
+    text-align: center;
+    background-color: #347B98;
+    height: 24%;
+}
+.box1 {
+    width: 100%;
+}
+.box2 {
+    width: 49.5%;
+}
+.box3 {
+    width: 49.5%;
+}
+.box4 {
+    width: 24.2%;
+}
+.box5 {
+    width: 24.2%;
+}
+.box6 {
+    width: 24.2%;
+}
+.box7 {
+    width: 24.2%;
+}
+.box8 {
+    width: 32.7%;
+}
+.box9 {
+    width: 32.7%;
+}
+.box10 {
+    width: 32.7%;
+}
