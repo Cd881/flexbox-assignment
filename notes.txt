@@ -1,0 +1,25 @@
+Git can help with collab
+Gaming term:
+Git is a checkpoint
+Git init
+Repo stuff is stored there
+3 main states
+	Modified
+	Staged
+	Committed 
+Git add (file name)
+Git commit -m “description”
+
+Remote repository is stored on the cloud
+Remote add origin https://<url>.get (do this once per computer)
+Git push -u origin master (do as needed)
+After first push you can use git push
+You don’t need to push after every commit
+Branches are different versions of the code and can exist at the same time
+Master branch should be clean code ready for deployment
+Git branch <name> Makes a branch
+Git branch shows all branches and shows an * next to the one you are working on
+Git checkout <branch> Tells git to switch our working folder
+Git merge <branch> merges the branch you're on with the branch you select
+
+This lesson can help the whole class work on the same website. Very easily, we can add our lines of code to others lines of code. This makes it really easy to work on the same project and not have to rewrite the code after you’re done. On a scale from 1 to 4 I am a 3 I understand how to work git, and get around it well. The best part about my break was eating and sleeping.
